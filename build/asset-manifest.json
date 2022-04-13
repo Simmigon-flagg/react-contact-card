@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-contact-card/static/css/main.31d6cfe0.css",
+    "main.js": "/react-contact-card/static/js/main.070e4517.js",
+    "index.html": "/react-contact-card/index.html",
+    "main.070e4517.js.map": "/react-contact-card/static/js/main.070e4517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.070e4517.js"
+  ]
+}
